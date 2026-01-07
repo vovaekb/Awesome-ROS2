@@ -62,6 +62,18 @@ https://vimeo.com/showcase/11987695?share=copy&fl=sc&fe=fs
 ### Interesting threads on ROS Discourse
 
 
+## Tips, recommendations
+
+**ROS2 best practices**
+
+[Link](https://github.com/leggedrobotics/ros_best_practices)
+
+
+## Awesome ROS2 lists
+
+**by fkromer**
+
+[Link](https://fkromer.github.io/awesome-ros2/#packages)
 
 ## ROS communities and initiatives
 
