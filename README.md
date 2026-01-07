@@ -11,12 +11,14 @@
 ### Youtube playlists
 
 **micro-ROS**
+
 Official playlists by eProsima.
  [Link](https://www.youtube.com/playlist?list=PL-Kh3H15FsNTD8A8wD0_iMnvhDsqw-rga)
 
 **Introduction to Mobile Robots and Robot Operating System (ROS)**
 
 Author: Oleg Shipitko (videos on Russian)
+
 [Link](https://www.youtube.com/playlist?list=PL2PmRem6srUn6jc7Q6ahjL8x2qJg150mZ)
 
 **TurtleBot3 lessons**
@@ -28,6 +30,19 @@ Videos on Russian
 **Husky**
 
 [Link](https://www.youtube.com/playlist?list=PLAf2_qj2sY8RzSTLxKir09f8EAxpQN3Wv)
+
+### Videos from ROS meetups and conferences 
+
+## ROSCon
+
+**ROSCon 2024**
+
+https://vimeo.com/showcase/11451831?share=copy&fl=sc&fe=fs
+
+
+**ROSCon 2025**
+
+https://vimeo.com/showcase/11987695?share=copy&fl=sc&fe=fs
 
 ### Datasets
 
