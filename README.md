@@ -1,14 +1,14 @@
 # Awesome-ROS2
 
 
-## Theory about ROS2
+## 📖 Theory about ROS2
 
 
 
 ## Study resources
 
 
-### Youtube playlists
+### 🎬 Youtube playlists
 
 **micro-ROS**
 
@@ -31,7 +31,7 @@ Videos on Russian
 
 [Link](https://www.youtube.com/playlist?list=PLAf2_qj2sY8RzSTLxKir09f8EAxpQN3Wv)
 
-### Videos from ROS meetups and conferences 
+### 🎙️ Videos from ROS meetups and conferences 
 
 ## ROSCon
 
@@ -44,7 +44,7 @@ https://vimeo.com/showcase/11451831?share=copy&fl=sc&fe=fs
 
 https://vimeo.com/showcase/11987695?share=copy&fl=sc&fe=fs
 
-### Datasets
+### 🗃️ Datasets
 
 
 **Multi-Sensor Vehicle Trajectories Dataset for Localization and Perception**
