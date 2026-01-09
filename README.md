@@ -4,8 +4,30 @@
 ## 📖 Theory about ROS2
 
 
-
 ## Study resources
+
+### 📚 Books 
+
+Swarm Robotics, A Formal Approach 
+
+[link](https://link.springer.com/book/9783032105837)
+
+Robot Operating System (ROS) for Absolute Beginners: Robotics Programming Made Easy (2023) 
+
+[link](https://www.amazon.com/Robot-Operating-System-Absolute-Beginners/dp/1484234049)
+
+### 🎓 Study courses
+
+**Open Sourcing ROS Developer Learning Path 2.0 by Robocademy**
+[link](https://robocademy.com/blog/open-sourcing-ros-developer-learning-path-2-0-by-robocademy)
+
+**PythonRobotics**
+Python code collections and textbook (This document) for robotics algorithm, which is developed on GitHub.
+[link](https://atsushisakai.github.io/PythonRobotics/index.html)
+
+**Autonomous Mobile Robot Design**
+
+[link](https://www.autonomousrobotslab.com/autonomous-mobile-robot-design.html)
 
 
 ### 🎬 Youtube playlists
@@ -37,19 +59,19 @@ Videos on Russian
 
 **ROSCon 2024**
 
-https://vimeo.com/showcase/11451831?share=copy&fl=sc&fe=fs
+[link](https://vimeo.com/showcase/11451831?share=copy&fl=sc&fe=fs)
 
 
 **ROSCon 2025**
 
-https://vimeo.com/showcase/11987695?share=copy&fl=sc&fe=fs
+[link]()https://vimeo.com/showcase/11987695?share=copy&fl=sc&fe=fs)
 
-### 📚 Books 
+🇬🇧💂 **ROSCon UK 2025**
 
-Swarm Robotics, A Formal Approach [link](https://link.springer.com/book/9783032105837)
+Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspectives - ROSCon UK 2025 Workshop Summary and Outcomes
+[link to Discourse](https://discourse.openrobotics.org/t/teaching-robotics-with-ros2-2-lessons-platforms-and-perspectives-roscon-uk-2025-workshop-summary-and-outcomes/50587)
 
-
-### 🎓 Study courses
+[Youtube playlist](https://www.youtube.com/playlist?list=PLumWhdyXtYI0eCZwEspiCQv0oLa6_QtSb)
 
 
 ### 🗃️ Datasets
