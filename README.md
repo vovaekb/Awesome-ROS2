@@ -44,6 +44,14 @@ https://vimeo.com/showcase/11451831?share=copy&fl=sc&fe=fs
 
 https://vimeo.com/showcase/11987695?share=copy&fl=sc&fe=fs
 
+### 📚 Books 
+
+Swarm Robotics, A Formal Approach [link](https://link.springer.com/book/9783032105837)
+
+
+### 🎓 Study courses
+
+
 ### 🗃️ Datasets
 
 
