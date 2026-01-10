@@ -23,10 +23,13 @@ Robot Operating System (ROS) for Absolute Beginners: Robotics Programming Made E
 
 
 **Open Sourcing ROS Developer Learning Path 2.0 by Robocademy**
+
 [link](https://robocademy.com/blog/open-sourcing-ros-developer-learning-path-2-0-by-robocademy)
 
 **PythonRobotics**
+
 Python code collections and textbook (This document) for robotics algorithm, which is developed on GitHub.
+
 [link](https://atsushisakai.github.io/PythonRobotics/index.html)
 
 **Autonomous Mobile Robot Design**
@@ -39,7 +42,8 @@ Python code collections and textbook (This document) for robotics algorithm, whi
 **micro-ROS**
 
 Official playlists by eProsima.
- [Link](https://www.youtube.com/playlist?list=PL-Kh3H15FsNTD8A8wD0_iMnvhDsqw-rga)
+
+[Link](https://www.youtube.com/playlist?list=PL-Kh3H15FsNTD8A8wD0_iMnvhDsqw-rga)
 
 **Introduction to Mobile Robots and Robot Operating System (ROS)**
 
@@ -73,6 +77,7 @@ Videos on Russian
 🇬🇧💂 **ROSCon UK 2025**
 
 Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspectives - ROSCon UK 2025 Workshop Summary and Outcomes
+
 [link to Discourse](https://discourse.openrobotics.org/t/teaching-robotics-with-ros2-2-lessons-platforms-and-perspectives-roscon-uk-2025-workshop-summary-and-outcomes/50587)
 
 [Youtube playlist](https://www.youtube.com/playlist?list=PLumWhdyXtYI0eCZwEspiCQv0oLa6_QtSb)
