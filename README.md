@@ -18,6 +18,10 @@ Robot Operating System (ROS) for Absolute Beginners: Robotics Programming Made E
 
 ### 🎓 Study courses
 
+**MIT16.485 - Visual Navigation for Autonomous Vehicles**
+[link](https://vnav.mit.edu/)
+
+
 **Open Sourcing ROS Developer Learning Path 2.0 by Robocademy**
 [link](https://robocademy.com/blog/open-sourcing-ros-developer-learning-path-2-0-by-robocademy)
 
