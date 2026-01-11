@@ -116,6 +116,10 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 ## ROS communities and initiatives
 
+**Discourse**
+
+[Link](https://discourse.ros.org/)
+
 **Zulip team chat**
 
 [Link](https://openrobotics.zulipchat.com)
