@@ -83,6 +83,12 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 [Youtube playlist](https://www.youtube.com/playlist?list=PLumWhdyXtYI0eCZwEspiCQv0oLa6_QtSb)
 
 
+### 🚀 Space robotics
+
+**Space Station OS**
+
+[github](https://github.com/space-station-os/space_station_os)
+
 ### 🗃️ Datasets
 
 
