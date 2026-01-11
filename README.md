@@ -72,7 +72,7 @@ Videos on Russian
 
 **ROSCon 2025**
 
-[link]()https://vimeo.com/showcase/11987695?share=copy&fl=sc&fe=fs)
+[link](https://vimeo.com/showcase/11987695?share=copy&fl=sc&fe=fs)
 
 🇬🇧💂 **ROSCon UK 2025**
 
@@ -106,11 +106,11 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 ### Interesting threads on ROS Discourse
 
-[DDS in ROS 2: Consolidated User Insights]
+**DDS in ROS 2: Consolidated User Insights**
 
 [Link](https://discourse.openrobotics.org/t/dds-in-ros-2-consolidated-user-insights/51340)
 
-[[GSoC 2025] Improvements to ROS 2 Tracing]
+**[GSoC 2025] Improvements to ROS 2 Tracing**
 
 [Link](https://discourse.openrobotics.org/t/gsoc-2025-improvements-to-ros-2-tracing/50063)
 
