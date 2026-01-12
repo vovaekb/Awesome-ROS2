@@ -8,13 +8,9 @@
 
 ### 📚 Books 
 
-Swarm Robotics, A Formal Approach 
-
-[link](https://link.springer.com/book/9783032105837)
-
-Robot Operating System (ROS) for Absolute Beginners: Robotics Programming Made Easy (2023) 
-
-[link](https://www.amazon.com/Robot-Operating-System-Absolute-Beginners/dp/1484234049)
+| Title | Link |
+| Swarm Robotics, A Formal Approach | [link](https://link.springer.com/book/9783032105837) | 
+| Robot Operating System (ROS) for Absolute Beginners: Robotics Programming Made Easy (2023) | [link](https://www.amazon.com/Robot-Operating-System-Absolute-Beginners/dp/1484234049) |
 
 ### 🎓 Study courses
 
@@ -39,27 +35,13 @@ Python code collections and textbook (This document) for robotics algorithm, whi
 
 ### 🎬 Youtube playlists
 
-**micro-ROS**
 
-Official playlists by eProsima.
 
-[Link](https://www.youtube.com/playlist?list=PL-Kh3H15FsNTD8A8wD0_iMnvhDsqw-rga)
-
-**Introduction to Mobile Robots and Robot Operating System (ROS)**
-
-Author: Oleg Shipitko (videos on Russian)
-
-[Link](https://www.youtube.com/playlist?list=PL2PmRem6srUn6jc7Q6ahjL8x2qJg150mZ)
-
-**TurtleBot3 lessons**
-
-Videos on Russian
-
-[Link](https://www.youtube.com/playlist?list=PLBUAVPhdXxbGqVCJ33TPKagDh1PwaNJGI)
-
-**Husky**
-
-[Link](https://www.youtube.com/playlist?list=PLAf2_qj2sY8RzSTLxKir09f8EAxpQN3Wv)
+| Title | Author | Link |
+| **micro-ROS** | eProsima | [Link](https://www.youtube.com/playlist?list=PL-Kh3H15FsNTD8A8wD0_iMnvhDsqw-rga) |
+| **Introduction to Mobile Robots and Robot Operating System (ROS)** | Oleg Shipitko (videos on Russian) | [Link](https://www.youtube.com/playlist?list=PL2PmRem6srUn6jc7Q6ahjL8x2qJg150mZ) |
+| **TurtleBot3 lessons (Ru)** | Applied Robotics [website](http://appliedrobotics.ru/) | [Link](https://www.youtube.com/playlist?list=PLBUAVPhdXxbGqVCJ33TPKagDh1PwaNJGI) |
+| **Husky** | Center for Cognitive Modeling [website](https://cogmodel.mipt.ru/) | [Link](https://www.youtube.com/playlist?list=PLAf2_qj2sY8RzSTLxKir09f8EAxpQN3Wv) |
 
 ### 🎙️ Videos from ROS meetups and conferences 
 
