@@ -89,8 +89,8 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 ### Interesting threads on ROS Discourse
 
-| Title | Author | Link |
-| ------------- | ------------- | ------------- |
+| Title | Author |
+| ------------- | ------------- |
 | **DDS in ROS 2: Consolidated User Insights** | [Link](https://discourse.openrobotics.org/t/dds-in-ros-2-consolidated-user-insights/51340) |
 | **[GSoC 2025] Improvements to ROS 2 Tracing** | [Link](https://discourse.openrobotics.org/t/gsoc-2025-improvements-to-ros-2-tracing/50063) |
 
