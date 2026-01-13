@@ -81,6 +81,15 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 [LinkedIn post](https://www.linkedin.com/posts/zaynab-el-mawas_localization-robotics-autonomousvehicles-activity-7336037541072019456-Msn9?utm_source=share&utm_medium=member_android&rcm=ACoAAAqwX38BL4EoESvaHB8EaV6GXinN9ktxZwU)
 
+**TUW Object Instance Recognition Dataset**
+
+[Link](https://www.acin.tuwien.ac.at/en/vision-for-robotics/software-tools/tuw-object-instance-recognition-dataset/)
+
+**Awesome RGB-D Datasets**
+
+[Link](https://github.com/alelopes/awesome-rgbd-datasets)
+
+
 ### Personal blogs on ROS2
 
 
