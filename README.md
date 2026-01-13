@@ -37,7 +37,6 @@ Python code collections and textbook (This document) for robotics algorithm, whi
 ### 🎬 Youtube playlists
 
 
-
 | Title | Author | Link |
 | ------------- | ------------- | ------------- |
 | **micro-ROS** | eProsima | [Link](https://www.youtube.com/playlist?list=PL-Kh3H15FsNTD8A8wD0_iMnvhDsqw-rga) |
@@ -90,13 +89,10 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 ### Interesting threads on ROS Discourse
 
-**DDS in ROS 2: Consolidated User Insights**
-
-[Link](https://discourse.openrobotics.org/t/dds-in-ros-2-consolidated-user-insights/51340)
-
-**[GSoC 2025] Improvements to ROS 2 Tracing**
-
-[Link](https://discourse.openrobotics.org/t/gsoc-2025-improvements-to-ros-2-tracing/50063)
+| Title | Author | Link |
+| ------------- | ------------- | ------------- |
+| **DDS in ROS 2: Consolidated User Insights** | [Link](https://discourse.openrobotics.org/t/dds-in-ros-2-consolidated-user-insights/51340) |
+| **[GSoC 2025] Improvements to ROS 2 Tracing** | [Link](https://discourse.openrobotics.org/t/gsoc-2025-improvements-to-ros-2-tracing/50063) |
 
 ## Tips, recommendations
 
@@ -110,6 +106,13 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 **by fkromer**
 
 [Link](https://fkromer.github.io/awesome-ros2/#packages)
+
+
+## Career on Robotics
+
+**ROS Robotics Companies**
+
+[Link](https://github.com/vmayoral/ros-robotics-companies)
 
 ## ROS communities and initiatives
 
