@@ -89,6 +89,10 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 [Link](https://github.com/alelopes/awesome-rgbd-datasets)
 
+**The UZH FPV Dataset**
+
+[Link](https://fpv.ifi.uzh.ch/datasets/)
+
 
 ### Personal blogs on ROS2
 
