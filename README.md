@@ -23,6 +23,14 @@
 
 [link](https://robocademy.com/blog/open-sourcing-ros-developer-learning-path-2-0-by-robocademy)
 
+### Tutorials
+
+**Robotics & ROS 2 Essentials**
+
+Practical tasks for learning ROS2 on Python for beginners.
+
+[link](https://github.com/henki-robotics/robotics_essentials_ros2)
+
 **PythonRobotics**
 
 Python code collections and textbook (This document) for robotics algorithm, which is developed on GitHub.
