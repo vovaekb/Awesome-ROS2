@@ -84,10 +84,9 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 | Title | Link |
 | ------------- | ------------- |
-|**Multi-Sensor Vehicle Trajectories Dataset for Localization and Perception** | [Link](https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.57745/YCXRWF), 
+| **Multi-Sensor Vehicle Trajectories Dataset for Localization and Perception** | [Link](https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.57745/YCXRWF), 
 [LinkedIn post](https://www.linkedin.com/posts/zaynab-el-mawas_localization-robotics-autonomousvehicles-activity-7336037541072019456-Msn9?utm_source=share&utm_medium=member_android&rcm=ACoAAAqwX38BL4EoESvaHB8EaV6GXinN9ktxZwU)|
-
-|**TUW Object Instance Recognition Dataset** | [Link](https://www.acin.tuwien.ac.at/en/vision-for-robotics/software-tools/tuw-object-instance-recognition-dataset/) |
+| **TUW Object Instance Recognition Dataset** | [Link](https://www.acin.tuwien.ac.at/en/vision-for-robotics/software-tools/tuw-object-instance-recognition-dataset/) |
 
 | **Awesome RGB-D Datasets** | [Link](https://github.com/alelopes/awesome-rgbd-datasets) |
 | **The UZH FPV Dataset** | [Link](https://fpv.ifi.uzh.ch/datasets/) |
