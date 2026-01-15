@@ -137,4 +137,8 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 [Link](https://openrobotics.zulipchat.com)
 
 
+**Robotics Stackexchange**
+
+[Link](https://robotics.stackexchange.com/)
+
 **ROS Agriculture Slack Channel**
