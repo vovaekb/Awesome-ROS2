@@ -128,17 +128,10 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 ## ROS communities and initiatives
 
-**Discourse**
-
-[Link](https://discourse.ros.org/)
-
-**Zulip team chat**
-
-[Link](https://openrobotics.zulipchat.com)
-
-
-**Robotics Stackexchange**
-
-[Link](https://robotics.stackexchange.com/)
+| Title | Link |
+| ------------- | ------------- |
+**Discourse** | [Link](https://discourse.ros.org/)|
+|**Zulip team chat** | [Link](https://openrobotics.zulipchat.com)|
+|**Robotics Stackexchange** | [Link](https://robotics.stackexchange.com/)|
 
 **ROS Agriculture Slack Channel**
