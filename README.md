@@ -12,6 +12,7 @@
 | ------------- | ------------- |
 | Swarm Robotics, A Formal Approach | [link](https://link.springer.com/book/9783032105837) | 
 | Robot Operating System (ROS) for Absolute Beginners: Robotics Programming Made Easy (2023) | [link](https://www.amazon.com/Robot-Operating-System-Absolute-Beginners/dp/1484234049) |
+|Mastering ROS 2 for Robotics Programming, Lentin joseph|[link](https://www.packtpub.com/en-de/product/mastering-ros-for-robotics-programming-9781801071024?utm_source=google&utm_medium=paid&utm_campaign=packt_de_winter2025&utm_id=23393500541&utm_content=&ag=6649999161&utm_source=google&utm_medium=paid&utm_campaign=23393500541_packt_de_winter2025&utm_term=&utm_content=_&utm_id=23393500541&bundle=de&offer=winter2025&page=unbounce&ag=6649999161&gad_source=1&gad_campaignid=23407981439&gbraid=0AAAAAqt_OJ0K3YGQ26dMF_naNIh-EMKeo&gclid=Cj0KCQiAprLLBhCMARIsAEDhdPdcE_hNZBoKkKG3JSROw3Jz6vnjVzjkjF14a_YwqYh8fN-Fy5ohX-saAlQJEALw_wcB)|
 
 ### 🎓 Study courses
 
