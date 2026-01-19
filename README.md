@@ -24,6 +24,10 @@
 
 [link](https://robocademy.com/blog/open-sourcing-ros-developer-learning-path-2-0-by-robocademy)
 
+**ROS2 — Введение в робототехнику (Народный курс), course on Russian**
+
+[link](https://stepik.org/course/221157/promo)
+
 ### Tutorials
 
 **Robotics & ROS 2 Essentials**
