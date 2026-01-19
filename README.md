@@ -47,6 +47,12 @@ Python code collections and textbook (This document) for robotics algorithm, whi
 [link](https://www.autonomousrobotslab.com/autonomous-mobile-robot-design.html)
 
 
+### Misc resources 
+
+Comprehensive list of study resources for learning robotics
+
+[link](https://github.com/mithi/robotics-coursework)
+
 ### 🎬 Youtube playlists
 
 
