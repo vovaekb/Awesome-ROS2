@@ -75,6 +75,8 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 [Youtube playlist](https://www.youtube.com/playlist?list=PLumWhdyXtYI0eCZwEspiCQv0oLa6_QtSb)
 
 
+### 🚁 Aerial robotics
+
 ### 🚀 Space robotics
 
 **Space Station OS**
