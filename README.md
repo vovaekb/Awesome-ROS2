@@ -42,6 +42,12 @@ Python code collections and textbook (This document) for robotics algorithm, whi
 
 [link](https://atsushisakai.github.io/PythonRobotics/index.html)
 
+**Robot Vision: ROSifying a YOLO Pipeline**
+
+Build a full robot vision pipeline: turn your YOLO script into a real ROS 2 perception node.
+
+[link](https://soulhackerslabs.com/robot-vision-rosifying-a-yolo-pipeline-898fcefa9061)
+
 **Autonomous Mobile Robot Design**
 
 [link](https://www.autonomousrobotslab.com/autonomous-mobile-robot-design.html)
