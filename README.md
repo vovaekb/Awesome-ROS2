@@ -141,11 +141,17 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 [Link](https://fkromer.github.io/awesome-ros2/#packages)
 
 
-## Career on Robotics
+## 💼 Career in Robotics
 
 **ROS Robotics Companies**
 
 [Link](https://github.com/vmayoral/ros-robotics-companies)
+
+**350+ ROS and Gazebo jobs - hope this helps!**
+
+[Link](https://careersinrobotics.com/jobs/robot-operating-system)
+
+[Announcement on Discourse](https://discourse.openrobotics.org/t/350-ros-and-gazebo-jobs-hope-this-helps/51851)
 
 ## ROS communities and initiatives
 
