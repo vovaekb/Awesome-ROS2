@@ -1,7 +1,6 @@
 # Awesome-ROS2
 
-<img src="[https://your-image-url.png](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg)" width="400" height="250" />
-
+![Alt text](https://i0.wp.com/robots.nootrix.com/wp-content/uploads/2012/04/rosLarge.png?w=703&ssl=1)
 
 ## 📖 Theory about ROS2
 
