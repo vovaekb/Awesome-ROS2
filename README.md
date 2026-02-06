@@ -103,6 +103,10 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 [github](https://github.com/space-station-os/space_station_os)
 
+**Career in Space Robotics (thread on Reddit)**
+
+[link](https://www.reddit.com/r/robotics/comments/1ajdgme/career_in_space_robotics/)
+
 ### 🗃️ Datasets
 
 | Title | Link |
