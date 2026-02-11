@@ -142,6 +142,12 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 [Link](https://github.com/leggedrobotics/ros_best_practices)
 
+**Best ROS 2 practices from Henki Robotics**
+
+Best ROS 2 practices on architecture and clean code from Henki Robotics
+
+[github](https://github.com/henki-robotics/henki_ros2_best_practices)
+
 
 ## Awesome ROS2 lists
 
