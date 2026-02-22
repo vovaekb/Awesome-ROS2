@@ -149,6 +149,14 @@ Best ROS 2 practices on architecture and clean code from Henki Robotics
 [github](https://github.com/henki-robotics/henki_ros2_best_practices)
 
 
+## Robotics in production
+
+**Ajime CI/CD platform**
+
+[Discourse thread](https://discourse.openrobotics.org/t/new-kid-on-the-block-meet-ajime-robotics-ci-cd-next-gen-platform/52617)
+
+[website](https://ajime.io)
+
 ## Awesome ROS2 lists
 
 **by fkromer**
