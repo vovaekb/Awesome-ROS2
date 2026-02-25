@@ -43,6 +43,11 @@ Python code collections and textbook (This document) for robotics algorithm, whi
 
 [link](https://atsushisakai.github.io/PythonRobotics/index.html)
 
+
+**Robotics Application Development with ROS 2 and Rust**
+
+[link](https://github.com/roboticswithjulia/ros2_rust_workshop/tree/main)
+
 **Robot Vision: ROSifying a YOLO Pipeline**
 
 Build a full robot vision pipeline: turn your YOLO script into a real ROS 2 perception node.
