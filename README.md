@@ -46,6 +46,9 @@ Python code collections and textbook (This document) for robotics algorithm, whi
 
 **Robotics Application Development with ROS 2 and Rust**
 
+Workshop to learn how to develop ROS2 applications using the Rust language. 
+Tutorials available on English, Spanish and Français. 
+
 [link](https://github.com/roboticswithjulia/ros2_rust_workshop/tree/main)
 
 **Robot Vision: ROSifying a YOLO Pipeline**
