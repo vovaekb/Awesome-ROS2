@@ -70,7 +70,6 @@ Comprehensive list of study resources for learning robotics
 
 ### 🎬 Youtube playlists
 
-
 | Title | Author | Link |
 | ------------- | ------------- | ------------- |
 | **micro-ROS** | eProsima | [Link](https://www.youtube.com/playlist?list=PL-Kh3H15FsNTD8A8wD0_iMnvhDsqw-rga) |
@@ -129,9 +128,17 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 ### Personal blogs on ROS2
 
-
 ## Simulation
 
+
+### Development tools
+
+## IDEs
+
+| Title | Author | Link |
+| ------------- | ------------- |
+|**ROS 2 Blueprint Studio**| [github](https://github.com/NeiroEvgen/ros2-blueprint-studio), [reddit](https://www.reddit.com/r/ROS/comments/1rk06bx/update_ros_2_blueprint_studio_v040_alpha_native/) |
+| **Rovium IDE**  | [github](https://github.com/rovium/rovium-beta) |
 
 ### Interesting threads on ROS Discourse
 
