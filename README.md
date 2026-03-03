@@ -135,7 +135,7 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 ## IDEs
 
-| Title | Author | Link |
+| Title | Links |
 | ------------- | ------------- |
 |**ROS 2 Blueprint Studio**| [github](https://github.com/NeiroEvgen/ros2-blueprint-studio), [reddit](https://www.reddit.com/r/ROS/comments/1rk06bx/update_ros_2_blueprint_studio_v040_alpha_native/) |
 | **Rovium IDE**  | [github](https://github.com/rovium/rovium-beta) |
