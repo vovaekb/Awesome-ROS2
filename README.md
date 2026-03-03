@@ -17,50 +17,21 @@
 
 ### 🎓 Study courses
 
-**MIT16.485 - Visual Navigation for Autonomous Vehicles**
-[link](https://vnav.mit.edu/)
-
-
-**Open Sourcing ROS Developer Learning Path 2.0 by Robocademy**
-
-[link](https://robocademy.com/blog/open-sourcing-ros-developer-learning-path-2-0-by-robocademy)
-
-**ROS2 — Введение в робототехнику (Народный курс), course on Russian**
-
-[link](https://stepik.org/course/221157/promo)
+| Title | Link |
+| ------------- | ------------- |
+| **MIT16.485 - Visual Navigation for Autonomous Vehicles** | [link](https://vnav.mit.edu/) |
+| **Open Sourcing ROS Developer Learning Path 2.0 by Robocademy** | [link](https://robocademy.com/blog/open-sourcing-ros-developer-learning-path-2-0-by-robocademy) |
+| **ROS2 — Введение в робототехнику (Народный курс), course on Russian** | [link](https://stepik.org/course/221157/promo) |
 
 ### Tutorials
 
-**Robotics & ROS 2 Essentials**
-
-Practical tasks for learning ROS2 on Python for beginners.
-
-[link](https://github.com/henki-robotics/robotics_essentials_ros2)
-
-**PythonRobotics**
-
-Python code collections and textbook (This document) for robotics algorithm, which is developed on GitHub.
-
-[link](https://atsushisakai.github.io/PythonRobotics/index.html)
-
-
-**Robotics Application Development with ROS 2 and Rust**
-
-Workshop to learn how to develop ROS2 applications using the Rust language. 
-Tutorials available on English, Spanish and Français. 
-
-[link](https://github.com/roboticswithjulia/ros2_rust_workshop/tree/main)
-
-**Robot Vision: ROSifying a YOLO Pipeline**
-
-Build a full robot vision pipeline: turn your YOLO script into a real ROS 2 perception node.
-
-[link](https://soulhackerslabs.com/robot-vision-rosifying-a-yolo-pipeline-898fcefa9061)
-
-**Autonomous Mobile Robot Design**
-
-[link](https://www.autonomousrobotslab.com/autonomous-mobile-robot-design.html)
-
+| Title | Description | Link |
+| ------------- | ------------- | ------------- |
+| **Robotics & ROS 2 Essentials** | Practical tasks for learning ROS2 on Python for beginners. | [link](https://github.com/henki-robotics/robotics_essentials_ros2) | 
+| **PythonRobotics** | Python code collections and textbook (This document) for robotics algorithm, which is developed on GitHub. | [link](https://atsushisakai.github.io/PythonRobotics/index.html) |
+| **Robotics Application Development with ROS 2 and Rust** | Workshop to learn how to develop ROS2 applications using the Rust language. Tutorials available on English, Spanish and Français. | [link](https://github.com/roboticswithjulia/ros2_rust_workshop/tree/main) | 
+| **Robot Vision: ROSifying a YOLO Pipeline** | Build a full robot vision pipeline: turn your YOLO script into a real ROS 2 perception node. | [link](https://soulhackerslabs.com/robot-vision-rosifying-a-yolo-pipeline-898fcefa9061) |
+| **Autonomous Mobile Robot Design** | [link](https://www.autonomousrobotslab.com/autonomous-mobile-robot-design.html) |
 
 ### Misc resources 
 
