@@ -21,6 +21,7 @@
 | ------------- | ------------- |
 | **MIT16.485 - Visual Navigation for Autonomous Vehicles** | [link](https://vnav.mit.edu/) |
 |**CS223A - Introduction to Robotics**| [link](https://see.stanford.edu/Course/CS223A) |
+|**CS 205A:  Mathematical Methods for Robotics, Vision, and Graphics (Fall 2013)**| [link]([https://see.stanford.edu/Course/CS223A](https://www.youtube.com/playlist?list=PLQ3UicqQtfNvQ_VzflHYKhAqZiTxOkSwi)) |
 | **Open Sourcing ROS Developer Learning Path 2.0 by Robocademy** | [link](https://robocademy.com/blog/open-sourcing-ros-developer-learning-path-2-0-by-robocademy) |
 | **ROS2 — Введение в робототехнику (Народный курс), course on Russian** | [link](https://stepik.org/course/221157/promo) |
 
