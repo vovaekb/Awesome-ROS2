@@ -154,6 +154,13 @@ Best ROS 2 practices on architecture and clean code from Henki Robotics
 
 ## 💼 Career in Robotics
 
+🌍👩🏻‍🎓 **ESRA: the European Student Robotics Association.**
+
+13 robotics clubs, 8 countries, 2500+ students, One network. ESRA unites these student robotics ecosystems — so they can share resources, collaborate on ambitious builds, and actually compete on a global level.
+
+[Website](http://studentrobotics.eu/)
+
+
 **ROS Robotics Companies**
 
 [Link](https://github.com/vmayoral/ros-robotics-companies)
