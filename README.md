@@ -77,6 +77,14 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 [link](https://developers.sber.ru/kak-v-sbere/events/ros_meetup)
 
+ 🚀 **Space ROS Community Meeting**
+
+[link](https://drive.google.com/file/d/1BvMTnWF-CPy4rg1rzrUY4So1xQKEYM1H/view)
+
+🔌**ROS 2 Embedded WG meetings**
+
+[link](https://discourse.openrobotics.org/t/ros-2-embedded-wg-meetings/15460)
+
 ### 🚁 Aerial robotics
 
 ### 🚀 Space robotics
