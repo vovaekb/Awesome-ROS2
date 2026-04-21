@@ -165,6 +165,12 @@ Best ROS 2 practices on architecture and clean code from Henki Robotics
 
 [Link](https://github.com/vmayoral/ros-robotics-companies)
 
+**ROS 2 Adopters**
+
+Companies, labs, and projects using ROS across domains from logistics and agriculture to drones and consumer robots.
+
+[Link](https://docs.ros.org/en/rolling/The-ROS2-Project/Adopters/Adopters.html)
+
 **350+ ROS and Gazebo jobs - hope this helps!**
 
 [Link](https://careersinrobotics.com/jobs/robot-operating-system)
