@@ -13,7 +13,7 @@
 | ------------- | ------------- |
 | Swarm Robotics, A Formal Approach | [link](https://link.springer.com/book/9783032105837) | 
 | Robot Operating System (ROS) for Absolute Beginners: Robotics Programming Made Easy (2023) | [link](https://www.amazon.com/Robot-Operating-System-Absolute-Beginners/dp/1484234049) |
-|Mastering ROS 2 for Robotics Programming, Lentin joseph|[link](https://www.packtpub.com/en-us/product/mastering-ros-2-for-robotics-programming-9781836209003)|
+| Mastering ROS 2 for Robotics Programming, Lentin joseph|[link](https://www.packtpub.com/en-us/product/mastering-ros-2-for-robotics-programming-9781836209003)|
 
 ### 🎓 Study courses
 
@@ -53,7 +53,7 @@ Comprehensive list of study resources for learning robotics
 
 ### 🎙️ Videos from ROS meetups and conferences 
 
-## ROSCon
+## ROSCon (global and local communities meetings)
 
 **ROSCon 2024**
 
@@ -72,6 +72,10 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
 [Youtube playlist](https://www.youtube.com/playlist?list=PLumWhdyXtYI0eCZwEspiCQv0oLa6_QtSb)
 
+
+🇷🇺 **ROS Meetup 2024 (Russia)**
+
+[link](https://developers.sber.ru/kak-v-sbere/events/ros_meetup)
 
 ### 🚁 Aerial robotics
 
