@@ -79,6 +79,8 @@ Materials from Teaching Robotics with ROS2 2: Lessons, Platforms and Perspective
 
  🚀 **Space ROS Community Meeting**
 
+Space ROS Community Meeting June 16th, 2023.
+
 [link](https://drive.google.com/file/d/1BvMTnWF-CPy4rg1rzrUY4So1xQKEYM1H/view)
 
 🔌**ROS 2 Embedded WG meetings**
