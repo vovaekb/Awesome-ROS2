@@ -11,7 +11,8 @@
 This survey provides a comprehensive, multidimensional review of ROS 2 research, guided by following research topics: improvements in ROS 2 relating to ROS 1,
 new frameworks, libraries, and tools introduced in the ROS 2 ecosystem.
 
-[Link](https://asmbatati.github.io/ros2_survey/)
+[Link to website](https://asmbatati.github.io/ros2_survey/)
+
 [link to Discourse](https://discourse.openrobotics.org/t/acm-computing-surveys-ros-2-in-a-nutshell-a-survey/54345)
 
 ## Study resources
