@@ -130,6 +130,10 @@ Space ROS Community Meeting June 16th, 2023.
 
 ### Development tools
 
+| Title | Links |
+| ------------- | ------------- |
+| **BAGEL** - browser-based ROS1/ROS2 bag file visualizer (.mcap, .db3, .bag), no install or server required | [github](https://github.com/Hussain004/BAGEL), [demo](https://bagel-ros2.vercel.app) |
+
 ## IDEs
 
 | Title | Links |
