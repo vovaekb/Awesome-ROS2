@@ -222,3 +222,7 @@ Companies, labs, and projects using ROS across domains from logistics and agricu
 |**Robotics Stackexchange** | [Link](https://robotics.stackexchange.com/)|
 
 **ROS Agriculture Slack Channel**
+
+## Packages
+
+- [norynth/ros2-bridge](https://github.com/norynth/ros2-bridge) - ROS2 package for fleet management, telemetry streaming, and command dispatch to the Norynth Robotics platform.
