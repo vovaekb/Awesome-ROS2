@@ -146,6 +146,12 @@ Space ROS Community Meeting June 16th, 2023.
 |**ROS 2 Blueprint Studio**| [github](https://github.com/NeiroEvgen/ros2-blueprint-studio), [reddit](https://www.reddit.com/r/ROS/comments/1rk06bx/update_ros_2_blueprint_studio_v040_alpha_native/) |
 | **Rovium IDE**  | [github](https://github.com/rovium/rovium-beta) |
 
+### Monitoring and observability
+
+| Title | Links |
+| ------------- | ------------- |
+| **ros2_pulse** - per-topic rates and node liveness, inter- and intra-process, from an LD_PRELOAD probe on stock binaries | [github](https://github.com/TanayK07/ros2_pulse), [discourse](https://discourse.openrobotics.org/t/57637), [docs](https://tanayk07.github.io/ros2_pulse/) |
+
 ### Interesting threads on ROS Discourse
 
 | Title | Link |
