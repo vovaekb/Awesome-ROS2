@@ -48,6 +48,8 @@ new frameworks, libraries, and tools introduced in the ROS 2 ecosystem.
 | **Robot Vision: ROSifying a YOLO Pipeline** | Build a full robot vision pipeline: turn your YOLO script into a real ROS 2 perception node. | [link](https://soulhackerslabs.com/robot-vision-rosifying-a-yolo-pipeline-898fcefa9061) |
 | **Autonomous Mobile Robot Design** | [link](https://www.autonomousrobotslab.com/autonomous-mobile-robot-design.html) |
 
+| **RoboSkin ROS 2 tactile sensing tutorial** | Experimental tactile-array message contract, synthetic publisher, QoS and rosbag2 recording/replay walkthrough; explicit verification limits. | [link](https://roboskin.ai/guides/ros2-tactile-sensing) |
+
 ### Misc resources 
 
 Comprehensive list of study resources for learning robotics
