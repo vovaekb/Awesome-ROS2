@@ -187,6 +187,12 @@ Best ROS 2 practices on architecture and clean code from Henki Robotics
 
 [Link](https://fkromer.github.io/awesome-ros2/#packages)
 
+**Botstest ROS 2 navigation resources**
+
+A topic index of ROS 2 navigation, mapping, localization, simulation and motion-planning resources.
+
+[Link](https://botstest.com/topics/ros2-navigation/)
+
 
 ## 💼 Career in Robotics
 
