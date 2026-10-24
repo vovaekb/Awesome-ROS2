@@ -146,6 +146,12 @@ Space ROS Community Meeting June 16th, 2023.
 |**ROS 2 Blueprint Studio**| [github](https://github.com/NeiroEvgen/ros2-blueprint-studio), [reddit](https://www.reddit.com/r/ROS/comments/1rk06bx/update_ros_2_blueprint_studio_v040_alpha_native/) |
 | **Rovium IDE**  | [github](https://github.com/rovium/rovium-beta) |
 
+### Motion planning
+
+| Title | Description | Link |
+| ------------- | ------------- | ------------- |
+| **batchplan-ros** | ROS 2 Jazzy integration for batched collision-aware motion planning, with MoveIt-compatible interfaces and an optional MoveIt planner plugin. | [github](https://github.com/natsuku-lab/batchplan-ros) |
+
 ### Interesting threads on ROS Discourse
 
 | Title | Link |
