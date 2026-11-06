@@ -101,6 +101,10 @@ Space ROS Community Meeting June 16th, 2023.
 
 ### 🚁 Aerial robotics
 
+**ERDI laser rangefinder ROS 2 examples**
+
+[github](https://github.com/Tommyapi/erdi-lrf-ros2-examples)
+
 ### 🚀 Space robotics
 
 **Space ROS**
