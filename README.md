@@ -146,6 +146,12 @@ Space ROS Community Meeting June 16th, 2023.
 |**ROS 2 Blueprint Studio**| [github](https://github.com/NeiroEvgen/ros2-blueprint-studio), [reddit](https://www.reddit.com/r/ROS/comments/1rk06bx/update_ros_2_blueprint_studio_v040_alpha_native/) |
 | **Rovium IDE**  | [github](https://github.com/rovium/rovium-beta) |
 
+### Security tools
+
+| Title | Links |
+| ------------- | ------------- |
+| **ros2audit** | [github](https://github.com/kayranfatih/ros2audit) |
+
 ### Interesting threads on ROS Discourse
 
 | Title | Link |
