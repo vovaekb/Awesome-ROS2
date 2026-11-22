@@ -137,6 +137,13 @@ Space ROS Community Meeting June 16th, 2023.
 
 ### Simulation
 
+**OpenDroneLab**
+
+Containerised PX4 v1.17 SITL, ROS 2 Jazzy and Gazebo Harmonic lab with scored VIO/EKF regression.
+
+[github](https://github.com/palcode/opendronelab)
+[docs](https://palcode.github.io/opendronelab)
+
 ## 👨🏻‍💻 Development tools
 
 ### IDEs
