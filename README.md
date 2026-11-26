@@ -150,7 +150,7 @@ Space ROS Community Meeting June 16th, 2023.
 
 | Title | Links |
 | ------------- | ------------- |
-| **colcon-dashboard** - live web dashboard for `colcon build`: dependency graph, package timeline, one log per package, and `colcon test` results | [github](https://github.com/autowarefoundation/colcon-dashboard), [discourse](https://discourse.openrobotics.org/t/colcon-dashboard-watch-your-colcon-build-live-in-the-browser/59899), [docs](https://autowarefoundation.github.io/colcon-dashboard/) |
+| **colcon-dashboard** - live web dashboard for colcon builds: dependency graph, timeline, per-package logs, system pressure | [github](https://github.com/autowarefoundation/colcon-dashboard), [discourse](https://discourse.openrobotics.org/t/colcon-dashboard-watch-your-colcon-build-live-in-the-browser/59899), [docs](https://autowarefoundation.github.io/colcon-dashboard/) |
 
 ### Interesting threads on ROS Discourse
 
